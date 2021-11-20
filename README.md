@@ -12,4 +12,4 @@ The project is about the analysis of temperature trends in Oahu, Hawaii. Statist
 ## Results
 
 1. June and December summary statistics temperatures (Oahu, Hawaii)
-<img src="june_dec-stats.PNG" />
+<img src="Resources/june_dec-stats.PNG" />
