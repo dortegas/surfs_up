@@ -15,7 +15,7 @@ The project is about the analysis of temperature trends in Oahu, Hawaii. Statist
 <img src="Resources/june_dec-stats.PNG" width="250" />
 
 2. Temperature observations of June
-<img src="Resources/june_hist.PNG" width="250" />
+<img src="Resources/june_hist.PNG" width="300" />
 
 3. Temperature observations of December
-<img src="Resources/dec_hist.PNG" width="250" />
+<img src="Resources/dec_hist.PNG" width="300" />
