@@ -28,4 +28,4 @@ According to the average and frequency of temperatures in June and December, we 
 
 Regarding precipitation data, we execute the following queries to know the trends about this weather issue
 
-<img src="Resources/queries_prcp.PNG" width="250" />
+<img src="Resources/queries_prcp.PNG" width="450" />
