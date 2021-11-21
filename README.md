@@ -33,3 +33,5 @@ On the other hand, regarding precipitation data, we executed the following queri
 The Precipitations statistics outcomes getting from the queries showcases the following:
 
 <img src="Resources/june_dec_prcp.PNG" width="280" />
+
+According to the average precipitation, December had the higher with 0.22 inches while June had 0.14 inches. The maximum precipitation in June was 4.4 inches while in December was 6.42 inches. In reference to the Intensity rain classification on the article https://en.wikipedia.org/wiki/Rain, rainfall intensity is classified according to the rate of precipitation, which depends on the considered time. So, we can conclude that in June and December in Oahu, Hawaii, there are on average moderate rains due to the precipitation rate being between 0.098 and 0.30 inches.
