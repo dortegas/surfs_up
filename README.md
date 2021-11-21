@@ -19,3 +19,7 @@ The project is about the analysis of temperature trends in Oahu, Hawaii. Statist
 
 3. Temperature observations of December
 <img src="Resources/dec_hist.PNG" width="300" />
+
+  1. Although the sample of June a December differs almost 11%, the average temperature differs 3.9 Fahrenheit degrees only.
+  2. The most temperature frequencies are 76 and 71 degrees Fahrenheit in June and December, respectively. There is only a 5° F of difference between these months.
+  3. The frequency temperatures range in June and December are between 68 and 75 degrees Fahrenheit. Although, the minimum temperature in June is 64 °F and 56 °F in December.
