@@ -27,4 +27,4 @@ The project is about the analysis of temperature trends in Oahu, Hawaii. Statist
 According to the average and frequency of temperatures in June and December, we could conclude that December would still provide appropriate weather conditions for the surf and ice cream shop business because the temperature is fairly sustainable year-round. The frequency temperatures range in June and December are between 68° and 75° F, the average temperature differs 3.9° F only.
 
 Regarding precipitation data, we execute the following queries to know the trends about this weather issue
-<img src="Resources/queries_prcp.PNG" widht="350" />
+<img src="Resources/queries_prcp.PNG" widht="250" />
