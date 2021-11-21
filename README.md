@@ -24,3 +24,4 @@ The project is about the analysis of temperature trends in Oahu, Hawaii. Statist
   3. The frequency temperatures range in June and December are between 68 and 75 degrees Fahrenheit. Although, the minimum temperature in June is 64 °F and 56 °F in December.
 
 ## Summary
+According to the average and frequency of temperatures in June and December, we could conclude that December would still provide appropriate weather conditions for the surf and ice cream shop business because the temperature is sustainable year-round.
