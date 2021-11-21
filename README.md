@@ -32,4 +32,4 @@ Regarding precipitation data, we executed the following queries to know the tren
 
 The Precipitations statistics outcomes getting from the queries showcases the following:
 
-<img src="Resources/june_dec_prcp.PNG" width="250" />
+<img src="Resources/june_dec_prcp.PNG" width="280" />
